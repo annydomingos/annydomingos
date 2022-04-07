@@ -1,5 +1,6 @@
 Oiii, prazer! Me chamo **Anny Domingos**✨
 - 👩‍💻Estudando desenvolvimento web
+- 🤓Sirius Education  
 - 📨annyds1@icloud.com
 
 
