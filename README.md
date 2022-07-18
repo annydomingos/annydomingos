@@ -1,6 +1,6 @@
-Oiii, prazer! Me chamo **Anny Domingos**✨
-- 👩‍💻Estudando desenvolvimento web
-- 🤓Sirius Education  
+Oh hi there! I´m **Anny Domingos**✨ Welcome to my profile 
+- 👩‍💻Studying Software Analysis and Development
+- 🤓Web Dev fellowship at Sirius Education 
 - 📨annyds1@icloud.com
 
 
