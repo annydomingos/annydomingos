@@ -1,5 +1,5 @@
 Oh hi there! I´m **Anny Domingos**✨ Welcome to my profile 
-- 👩‍💻Studying Software Analysis and Development
+- 👩‍💻Studying for a Software Analysis and Development degree
 - 🤓Web Dev fellowship at Sirius Education 
 - 📨annyds1@icloud.com
 
