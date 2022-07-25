@@ -1,4 +1,4 @@
-Oh hi there! I´m **Anny Domingos**✨ Welcome to my profile 
+Oh hi there! I´m **Anny**✨ Welcome to my profile 
 - 👩‍💻Studying for a Software Analysis and Development degree
 - 🤓Web Dev fellowship at Sirius Education 
 - 📨annyds1@icloud.com
