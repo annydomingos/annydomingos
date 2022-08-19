@@ -4,6 +4,7 @@ Oh hi there! I´m **Anny**✨ Welcome to my profile
 - 📨annyds1@icloud.com
 - Projects in the oven, will post very soon ✨
 
+##
 
 <div style="display:inline-block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" width="80">
