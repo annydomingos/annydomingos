@@ -2,7 +2,7 @@ Oh hi there! I´m **Anny**✨ Welcome to my profile
 - 👩‍💻Studying for a Software Analysis and Development degree
 - 🤓Web Dev fellowship at Sirius Education 
 - 📨annyds1@icloud.com
-- Projects in the oven, will post very soon ✨
+- Projects in the oven, will post more very soon ✨
 
 ##
 
