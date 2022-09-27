@@ -1,6 +1,6 @@
 Oh hi there! I´m **Anny**✨ Welcome to my profile 
-- 👩‍💻Studying for a Software Analysis and Development degree
 - 🤓Web Developer by Sirius Education 
+- 👩‍💻Studying for a Software Analysis and Development degree 
 - 🖥️Backend Python at E.B.A.C
 - 📨annyds1@icloud.com
 - Projects in the oven, will post more very soon ✨
