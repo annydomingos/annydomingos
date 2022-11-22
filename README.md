@@ -1,7 +1,7 @@
 Oh hi there! I´m **Anny**✨ Welcome to my profile 
 - 🤓Web Developer by Sirius Education 
 - 👩‍💻Studying for a Software Analysis and Development degree 
-- 🖥️Backend Python at British School of Creative Arts & Technology
+- 🖥️Backend Python at E.B.A.C
 - 📨annyds1@icloud.com
 - Projects in the oven, will post more very soon ✨
 
